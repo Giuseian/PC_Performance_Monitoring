@@ -1,3 +1,2 @@
-# Statistics_Homeworks_-_Project_AMG (Alessio,  Martina, Giusy)
+# Statistics: Performance Monitoring
 
-Basic concepts: Ansia(Giusy in particolare) e "Si na chiavca" (In senso buono però)
