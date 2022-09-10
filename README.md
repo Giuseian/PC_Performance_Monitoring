@@ -17,4 +17,4 @@ PROJECT RESULTS:
 • Application of a Linear Regression in such a way to find a relation between "%Disk Time" and "Average Disk Write Queue Length", and also of "Data Maps/Sec" and "Copy Reads/Sec". Individuation of Points that have Highly Potential Influence on the least squares estimates through Leverage and Cook's Distance Techniques. Deletion of them in such a way to reach a higher Least Square Estimation.
 • Investigation on correlations between some of the most important features in such a way to individuate the most correlated ones. 
 
-Project Repository: https://github.com/alessioborgi/Performance_Monitoring_Statistics_and_ML
+PROJECT REPOSITORY: https://github.com/alessioborgi/Performance_Monitoring_Statistics_and_ML
