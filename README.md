@@ -2,19 +2,19 @@
 
 Copyright © 2022 Alessio Borgi
 
-PROJECT SCOPE: Detailed Analysis of some PC Components through Statistics and ML Techniques.
+PROJECT SCOPE: Main PC Components Analysis through Statistics and ML Techniques.
 
 PROJECT RESULTS:
-• Collection of data (about CPU, Memory, Physical Disk, Cache, and Battery) through the Windows' "Performance Monitoring" application.
-• Found a distinction among the samples we have gathered: Idle VS Working Distinction (when the PC is switched on but it is currently doing nothing VS when the PC is Training a ML Model), through some Clustering Techniques (K-Means Clustering, K-Means++, GMM, K-Means with Elkan Algorithm).
-• Implementation of a By-Hand K-Means and K-Means++ Versions.
-• Individuation of the best number of clusters through the Elbow Method, Silhouette Coefficient, and AIC & BIC evaluation Criteria.
-• Individuation of the Best Algorithm to use depending on a By-Hand Accuracy Implementation, and on Time Performances.
-• Comparison between PCs and Individuation of the Best PC in terms of Time Performances.
-• Focus on Average Page Faults (using Non-Parametric and Parametric Bootstrap).
-• Anova-one-way-Test for determining whether the number of Page Faults between computers were similar. Anova-one-way-Test for determining whether the number of Cache Faults between computers were similar
-• Pairwise T-Test between computers to see, more in dept, what are the PCs that had the same behaviour.
-• Application of a Linear Regression in such a way to find a relation between "%Disk Time" and "Average Disk Write Queue Length", and also of "Data Maps/Sec" and "Copy Reads/Sec". Individuation of Points that have Highly Potential Influence on the least squares estimates through Leverage and Cook's Distance Techniques. Deletion of them in such a way to reach a higher Least Square Estimation.
-• Investigation on correlations between some of the most important features in such a way to individuate the most correlated ones. 
+• Data collection (CPU, Memory, Physical Disk, Cache, and Battery) through the Windows' "Performance Monitoring" application over multiple PCs.
+• Clustering Techniques application (K-Means Clustering, K-Means++, GMM, K-Means Elkan Algorithm) classifying the data collected either idle or working. 
+• By-Hand K-Means and K-Means++ implementation. 
+• Elbow Method, Silhouette Coefficient, and AIC & BIC evaluation Criteria determining the best number of clusters.
+• Best Algorithm  choice based on Accuracy and Time Performances.
+• Best PC choice based on Time Performances.
+• Average Page Faults measurements (using Non-Parametric and Parametric Bootstrap).
+• Anova-one-way-Test for Page and Cache Faults comparison test. 
+• Pairwise T-Test for finding similar Pcs’ behaviours.
+• Linear Regression Application to determine "%Disk Time" vs "Average Disk Write Queue Length", and "Data Maps/Sec" vs "Copy Reads/Sec" relationships.
+• Highly Potential Influence points individuation with Leverage and Cook's Distance Techniques.
 
 PROJECT REPOSITORY: https://github.com/alessioborgi/Performance_Monitoring_Statistics_and_ML
