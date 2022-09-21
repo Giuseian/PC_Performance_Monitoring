@@ -2,7 +2,7 @@
 
 Copyright © 2022 Alessio Borgi
 
-PROJECT SCOPE: Main PC Components Analysis through Statistics and ML Techniques
+PROJECT SCOPE: Main PC Components Analysis through Statistics and ML Techniques.
 
 PROJECT RESULTS:
 • Data collection (CPU, Memory, Physical Disk, Cache, and Battery) through the Windows' "Performance Monitoring" application over multiple PCs.
