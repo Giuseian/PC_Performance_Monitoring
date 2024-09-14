@@ -1,4 +1,4 @@
-# Statistics: Performance Monitoring
+# PC Performance Monitoring
 
 **Copyright © 2022 Alessio Borgi**
 
