@@ -1,6 +1,6 @@
 # PC Performance Monitoring
 
-**Copyright © 2022 Alessio Borgi**
+**Copyright © 2022 Alessio Borgi, Martina Doku, Giuseppina Iannotti**
 
 **PROJECT SCOPE**: Main PC Components Analysis through Statistics and ML Techniques. A project focused on monitoring system performance using statistical analysis and machine learning techniques. This repository provides tools and methods for collecting, analyzing, and visualizing performance metrics, enabling effective performance tuning and anomaly detection. Suitable for developers and data scientists interested in optimizing system performance and predictive maintenance.
 
