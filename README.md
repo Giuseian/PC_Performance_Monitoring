@@ -16,5 +16,3 @@
 - Pairwise T-Test for finding similar Pcs’ behaviours.
 - Linear Regression Application to determine "%Disk Time" vs "Average Disk Write Queue Length", and "Data Maps/Sec" vs "Copy Reads/Sec" relationships.
 - Highly Potential Influence points individuation with Leverage and Cook's Distance Techniques.
-
-**PROJECT REPOSITORY**: https://github.com/alessioborgi/Performance_Monitoring_Statistics_and_ML
